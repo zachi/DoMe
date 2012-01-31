@@ -1,0 +1,6 @@
+﻿refactore code
+check android
+how to delete localstorage
+bug:
+ - trash button appearance
+ - localstorage agani???
